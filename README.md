@@ -10,3 +10,6 @@
   - [Product & Category Insights](#product--category-insights)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
+
+## Project Background
+Yup!!
