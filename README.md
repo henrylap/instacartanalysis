@@ -38,24 +38,27 @@ Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average
 ## Dashboard Insights
 <img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
 
-Order activity peaks on **Sundays** and **Mondays**, indicating that customers are most likely to stock up at the start of the week.
+
+*Order activity peaks on **Sundays** and **Mondays**, indicating that customers are most likely to stock up at the start of the week.*
+
 
 <img width="1067" height="606" alt="Screenshot 2025-08-25 at 3 13 29 PM" src="https://github.com/user-attachments/assets/7fecea11-f751-4ac3-a0c1-51db4bb931d6" />
 
 
-Order activity increases sharply in the morning, peaks between 10 AM and 3 PM, and then gradually tapers off into the evening.
+*Order activity increases sharply in the morning, peaks between 10 AM and 3 PM, and then gradually tapers off into the evening.*
 
 
 <img width="599" height="278" alt="Screenshot 2025-08-25 at 11 53 56 AM" src="https://github.com/user-attachments/assets/6cef39dc-5dfe-4cf5-8aa1-2eca497663ff" /> 
 
 
-Reorders follow a different pattern, peaking in the **morning hours (6 AM – 10 AM)**, especially on weekdays.  
-This indicates that while overall traffic peaks mid-day, loyal repeat customers are more likely to place early-morning orders.  
+*Reorders follow a different pattern, peaking in the **morning hours (6 AM – 10 AM)**, especially on weekdays.*  
+*This indicates that while overall traffic peaks mid-day, loyal repeat customers are more likely to place early-morning orders.*  
+
 
 <img width="1080" height="429" alt="Screenshot 2025-08-25 at 12 35 16 PM" src="https://github.com/user-attachments/assets/a1d2fa91-8c3d-4a95-9d24-0107c3ac548c" />
 
 
-Produce dominates by a wide margin with around 1.4 million items purchased, followed by Dairy & Eggs and Beverages as the next largest departments.
+*Produce dominates by a wide margin with around 1.4 million items purchased, followed by Dairy & Eggs and Beverages as the next largest departments.*
 
 
 
