@@ -1,7 +1,7 @@
 # :
 ## Table of Contents
 - [Project Background](#project-background)
-- [Data Description](#data-descrption)
+- [Data Description](#data-description)
 - [Executive Summary](#executive-summary)
 - [Key KPIs](#key-kpis)
 - [Dashboard Insights](#dashboard-insights)
