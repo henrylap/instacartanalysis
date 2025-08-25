@@ -51,11 +51,11 @@ This indicates that while overall traffic peaks mid-day, loyal repeat customers 
 <img width="1080" height="429" alt="Screenshot 2025-08-25 at 12 35 16 PM" src="https://github.com/user-attachments/assets/a1d2fa91-8c3d-4a95-9d24-0107c3ac548c" />
 
 
-Produce is the leading department by a large margin, followed by dairy and eggs, and beverages as the top three dominating departments.
+Produce dominates by a wide margin with around 1.4 million items purchased, followed by Dairy & Eggs and Beverages as the next largest departments.
 
 <img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
 
-Order activity is highest on Sundays and Mondays, suggesting that users peform their weekly shopping early in the week.
+Order activity peaks on **Sundays** and **Mondays**, indicating that customers are most likely to stock up at the start of the week.
 
 
 
