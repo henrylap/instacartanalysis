@@ -36,11 +36,15 @@ Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average
 <img width="1002" height="89" alt="Screenshot 2025-08-25 at 11 51 18 AM" src="https://github.com/user-attachments/assets/c3da58a1-425c-4232-9dad-b5705b5d9c2c" />
 
 ## Dashboard Insights
-<img width="597" height="268" alt="Screenshot 2025-08-25 at 11 54 21 AM" src="https://github.com/user-attachments/assets/70ff9e40-bc9a-4730-a935-b1fb8ba36bfd" />
+<img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
+
+Order activity peaks on **Sundays** and **Mondays**, indicating that customers are most likely to stock up at the start of the week.
+
+<img width="1067" height="606" alt="Screenshot 2025-08-25 at 3 13 29 PM" src="https://github.com/user-attachments/assets/7fecea11-f751-4ac3-a0c1-51db4bb931d6" />
 
 
-Order activity is heavily concentrated between roughly **9 AM and 4 PM**, with the highest volume being around **midday (10 AM – 3 PM)**.  
-Sundays and Mondays are peak days overall, suggesting that Instacart users typically shop earlier in the week during daytime hours.  
+Order activity increases sharply in the morning, peaks between 10 AM and 3 PM, and then gradually tapers off into the evening.
+
 
 <img width="599" height="278" alt="Screenshot 2025-08-25 at 11 53 56 AM" src="https://github.com/user-attachments/assets/6cef39dc-5dfe-4cf5-8aa1-2eca497663ff" /> 
 
@@ -53,9 +57,8 @@ This indicates that while overall traffic peaks mid-day, loyal repeat customers 
 
 Produce dominates by a wide margin with around 1.4 million items purchased, followed by Dairy & Eggs and Beverages as the next largest departments.
 
-<img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
 
-Order activity peaks on **Sundays** and **Mondays**, indicating that customers are most likely to stock up at the start of the week.
+
 
 
 
