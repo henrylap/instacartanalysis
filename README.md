@@ -28,3 +28,6 @@ The analysis focuses on market basket behavior, including basket size, reorder r
    
 *Entity–Relationship Diagram (ERD) of the Instacart dataset*
 <img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/4b13e6ee-a591-4d98-a717-e6796a613061" />
+
+## Executive Summary
+Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average basket size of 3 items and an overall reorder rate near 80%. Order volume peaked on Sundays and Mondays, with most activity between 9 AM and 4 PM. Produce was the leading department, accounting for ~1.4M items purchased and the highest reorder rate at 84%. In terms of retention, 93% of users placed at least two orders, but that share dropped to 64% at five orders and 37% at ten.
