@@ -26,4 +26,5 @@ The analysis focuses on market basket behavior, including basket size, reorder r
 4. **Aisles** – Describes aisle IDs and aisle names.  
 5. **Departments** – Describes department IDs and department names.
    
-
+*Entity–Relationship Diagram (ERD) of the Instacart dataset*
+<img width="584" height="357" alt="instacart RS" src="https://github.com/user-attachments/assets/4b13e6ee-a591-4d98-a717-e6796a613061" />
