@@ -48,11 +48,16 @@ Sundays and Mondays are peak days overall, suggesting that Instacart users typic
 Reorders follow a different pattern, peaking in the **morning hours (6 AM – 10 AM)**, especially on weekdays.  
 This indicates that while overall traffic peaks mid-day, loyal repeat customers are more likely to place early-morning orders.  
 
-
 <img width="1080" height="429" alt="Screenshot 2025-08-25 at 12 35 16 PM" src="https://github.com/user-attachments/assets/a1d2fa91-8c3d-4a95-9d24-0107c3ac548c" />
 
 
-Bar chart detailing the top 15 departments by order volume. Produce is the leading department by a large margin, followed by dairy and eggs, and beverages as the top three dominating departments.
+Produce is the leading department by a large margin, followed by dairy and eggs, and beverages as the top three dominating departments.
+
+<img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
+
+Order activity is highest on Sundays and Mondays, suggesting that users peform their weekly shopping early in the week.
+
+
 
 
 
