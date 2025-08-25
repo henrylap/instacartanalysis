@@ -4,13 +4,11 @@
 - [Data Description](#data-description)
 - [Executive Summary](#executive-summary)
 - [Key KPIs](#key-kpis)
-- [Dashboard Insights](#dashboard-insights)
-- [SQL-Driven Exploratory Analysis](#sql-driven-exploratory-analysis)
+- [Exploratory Insights](#exploratory-insights)
   - [Customer Retention](#customer-retention)
   - [Basket Dynamics](#basket-dynamics)
+  - [Order Behavior Over Time](#order-behavior-over-time)
   - [Product & Category Insights](#product--category-insights)
-- [Recommendations](#recommendations)
-- [Conclusion](#conclusion)
 
 ## Project Background
 Instacart is a U.S.-based online grocery delivery and pickup platform, partnering with over 1,800 retailers and servicing more than 100,000 individual stores.  
@@ -35,7 +33,7 @@ Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average
 ## Key KPIs
 <img width="1002" height="89" alt="Screenshot 2025-08-25 at 11 51 18 AM" src="https://github.com/user-attachments/assets/c3da58a1-425c-4232-9dad-b5705b5d9c2c" />
 
-## Dashboard Insights
+## Exploratory Insights
 <img width="531" height="386" alt="Screenshot 2025-08-25 at 12 39 58 PM" src="https://github.com/user-attachments/assets/f1f42e0d-61e8-47a6-8212-5eb301df4140" />
 
 
@@ -59,6 +57,15 @@ Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average
 
 
 *Produce dominates by a wide margin with around 1.4 million items purchased, followed by Dairy & Eggs and Beverages as the next largest departments.*
+
+## Exploratory Insights
+
+### **Customer retention**
+<img width="361" height="67" alt="Screenshot 2025-08-25 at 3 30 25 PM" src="https://github.com/user-attachments/assets/cad057ea-a878-4fd2-aa59-0605c8c752cb" />
+- As mentioned, 93% of users placed at least two orders, dropping to 64% at five orders and 37% at ten.
+
+
+
 
 
 
