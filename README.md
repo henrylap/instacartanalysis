@@ -31,3 +31,15 @@ The analysis focuses on market basket behavior, including basket size, reorder r
 
 ## Executive Summary
 Instacart’s basket analysis of ~1.4M orders from ~120k users showed an average basket size of 3 items and an overall reorder rate near 80%. Order volume peaked on Sundays and Mondays, with most activity between 9 AM and 4 PM. Produce was the leading department, accounting for ~1.4M items purchased and the highest reorder rate at 84%. In terms of retention, 93% of users placed at least two orders, but that share dropped to 64% at five orders and 37% at ten.
+
+## Key KPIs
+<img width="1002" height="89" alt="Screenshot 2025-08-25 at 11 51 18 AM" src="https://github.com/user-attachments/assets/c3da58a1-425c-4232-9dad-b5705b5d9c2c" />
+
+## Dashboard Insights
+<img width="599" height="278" alt="Screenshot 2025-08-25 at 11 53 56 AM" src="https://github.com/user-attachments/assets/6cef39dc-5dfe-4cf5-8aa1-2eca497663ff" />
+<img width="597" height="268" alt="Screenshot 2025-08-25 at 11 54 21 AM" src="https://github.com/user-attachments/assets/70ff9e40-bc9a-4730-a935-b1fb8ba36bfd" />
+
+
+
+
+
